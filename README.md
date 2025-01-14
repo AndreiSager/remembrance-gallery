@@ -1,3 +1,7 @@
+## <img src="https://github.com/user-attachments/assets/9659b3f8-1507-4860-b6b8-39f7b5a4d4f8" alt="drawing" width="30"/> Lighthouse Score
+
+![image](https://github.com/user-attachments/assets/f7554901-5725-401d-a582-49b4ad89694e)
+
 ## My Goal With This Project
 
 My goal was to simulate a professional work environment.
